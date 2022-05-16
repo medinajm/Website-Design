@@ -1,0 +1,62 @@
+
+h1,
+h2 {
+  font-family: 'Oswald', sans-serif;
+}
+section {
+  border: gray solid 2px;
+}
+
+.colorblocks li {
+  display: inline-grid;
+  width: 100px;
+  height: 20px;
+  padding: 50px 75px;
+  text-align: center;
+}
+h2 {
+margin-left: 5px;
+}
+#darkblue {
+ background-color: #0D47A1;
+ color: white;
+}
+#blue {
+  background-color: #2196F3;
+  color: white;
+}
+#lightestblue {
+  background-color: #BBDEFB;
+}
+.fontname {
+  text-decoration: underline;
+}
+.roboto {
+  font-family: 'Roboto Flex', sans-serif;
+}
+.raleway {
+  font-family: 'Raleway', sans-serif;
+}
+.oswald {
+  font-family: 'Oswald', sans-serif;
+}
+]
+#reg400 {
+  font-weight: 400;
+}
+#semi600 {
+  font-weight: 600;
+}
+#blk900 {
+  font-weight: 900;
+}
+#bold700 {
+  font-weight: 700;
+}
+#raleway {
+  font-family: 'Raleway', sans-serif;
+
+}
+#roboto {
+  font-family: 'Roboto Flex', sans-serif;
+}
